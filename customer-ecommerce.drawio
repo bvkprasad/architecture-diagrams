@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T20:56:09.720Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MIbdxr9q9BaRZ8ctO9SL" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T20:58:47.673Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="h00sW-rRLZp-PSLoUxUp" version="20.8.18" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2970" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="Ht2DcV2oqB-h3OpvBvaP-12" value="User Management Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-304" y="490" width="128" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ht2DcV2oqB-h3OpvBvaP-16" value="Product Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ht2DcV2oqB-h3OpvBvaP-16" value="Product And Inventory management Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="383.5" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ht2DcV2oqB-h3OpvBvaP-17" value="Basket And Wishlist Management Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
